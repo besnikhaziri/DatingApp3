@@ -1,0 +1,14 @@
+.dropdown-toggle, .dropdown-item {
+    cursor: pointer;
+
+} 
+
+
+
+.dropdown-menu.show{
+    margin-top: 14%;
+}
+
+.nav-link{
+    cursor: pointer;
+}
